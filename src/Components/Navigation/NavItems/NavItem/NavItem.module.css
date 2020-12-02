@@ -1,0 +1,12 @@
+.NavItem {
+    margin: 5px;
+    box-sizing: border-box;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.NavItem a{
+    color: white;
+    text-decoration: none;
+}

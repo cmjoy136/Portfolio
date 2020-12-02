@@ -1,0 +1,21 @@
+.Navbar{
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px;
+    box-sizing: border-box;
+    z-index: 90;
+}
+
+.Navbar img {
+    margin-left: 40px;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+}
