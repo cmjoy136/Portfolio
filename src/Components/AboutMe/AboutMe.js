@@ -8,7 +8,7 @@ const aboutMe = () => {
       <br />
       <p>
         Hello! My name is Chris Joy and I am{" "}
-        <a href="https://www.kenzie.academy/" target="_blank">
+        <a href="https://www.kenzie.academy/" target="_blank" rel="noreferrer">
           Kenzie Academy
         </a>{" "}
         Software Engineering graduate with a penchant for front end
