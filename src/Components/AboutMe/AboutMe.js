@@ -7,7 +7,7 @@ const aboutMe = () => {
       <h1>About Me</h1>
       <br />
       <p>
-        Hello! My name is Chris Joy and I am{" "}
+        Hello! My name is Chris Joy and I am a {" "}
         <a href="https://www.kenzie.academy/" target="_blank" rel="noreferrer">
           Kenzie Academy
         </a>{" "}
@@ -18,7 +18,7 @@ const aboutMe = () => {
       <br />
       <p>
         During times when I'm not working on projects, I enjoy working out,
-        playing guitar, and taking pictures of my cat
+        playing guitar, and taking pictures of my cat.
       </p>
     </div>
   );

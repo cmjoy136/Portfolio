@@ -1,7 +1,17 @@
 .ProjectCard{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
-    margin: 10px;
     list-style: none;
+}
+
+.ProjectCard img{
+    height: 150px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.InnerDiv{
+    display: flex;
+    flex-direction: column;
 }

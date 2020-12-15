@@ -5,8 +5,7 @@ import classes from './NavItems.module.css'
 const navItems = () => {
     return(
         <ul className={classes.NavItems}>
-            <NavItem>Home</NavItem>
-            <NavItem>Projects</NavItem>
+            <NavItem link='#projects'>Projects</NavItem>
             <NavItem>Feed</NavItem>
             <NavItem>Contact</NavItem>
         </ul>
